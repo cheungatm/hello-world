@@ -1,2 +1,4 @@
 # hello-world
-this is a tutorial for how to use github
+This is a tutorial for how to use github
+
+...and also learning to hack the mainframe.
